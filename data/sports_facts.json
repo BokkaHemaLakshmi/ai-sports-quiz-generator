@@ -1,0 +1,22 @@
+[
+  {
+    "sport": "Cricket",
+    "fact": "The first official international cricket match was played in 1844 between the United States and Canada."
+  },
+  {
+    "sport": "Football",
+    "fact": "The first FIFA World Cup was held in 1930 in Uruguay, where the hosts won the tournament."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "Badminton made its official debut as a medal sport at the Barcelona 1992 Olympic Games."
+  },
+  {
+    "sport": "Kabaddi",
+    "fact": "Kabaddi received international exposure during a demonstration match at the 1936 Berlin Olympics before being officially included in the Asian Games in 1990."
+  },
+  {
+    "sport": "Tennis",
+    "fact": "The oldest tennis tournament in the world is the Wimbledon Championships, which was first played in London in 1877."
+  }
+]
